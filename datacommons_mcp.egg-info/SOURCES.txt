@@ -6,7 +6,6 @@ datacommons_mcp/cache.py
 datacommons_mcp/cli.py
 datacommons_mcp/clients.py
 datacommons_mcp/exceptions.py
-datacommons_mcp/server.py
 datacommons_mcp/services.py
 datacommons_mcp/settings.py
 datacommons_mcp/topics.py
@@ -28,6 +27,7 @@ datacommons_mcp/data_models/search.py
 datacommons_mcp/data_models/settings.py
 tests/test_cli.py
 tests/test_dc_client.py
+tests/test_server.py
 tests/test_services.py
 tests/test_settings.py
 tests/test_temp_constrained_vars.py
